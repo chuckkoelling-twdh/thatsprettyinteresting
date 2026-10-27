@@ -1,0 +1,9 @@
+// Replace excerpts and add `body` for each post when the full text has been exported from Wix.
+window.POSTS = [
+{slug:'ready-player-1',title:'Ready, Player 1?',date:'2021-12-18',topic:'SCIENCE & PHILOSOPHY',excerpt:'One of the great mysteries for all of us, regardless of belief, is where anything came from.',original:'https://www.thatsprettyinteresting.com/post/ready-player-1'},
+{slug:'the-most-important-100-years-in-the-history-of-the-universe',title:'The Most Important 100 Years in the History of the Universe?',date:'2021-12-15',topic:'HUMANITY & THE FUTURE',excerpt:'I think humans might be staggeringly important in the scheme of things.',original:'https://www.thatsprettyinteresting.com/post/the-most-important-100-years-in-the-history-of-the-universe'},
+{slug:'the-other-sustainable',title:'The “Other” Sustainable',date:'2021-12-15',topic:'ENERGY & ECONOMICS',excerpt:'A thought experiment about oil, growth, and the limits of sustainability.',original:'https://www.thatsprettyinteresting.com/post/the-other-sustainable'},
+{slug:'i-know-what-tugs-at-your-soul',title:'I know what tugs at your soul',date:'2021-12-15',topic:'LIFE & IDEAS',excerpt:'An exploration of what moves us and why.',original:'https://www.thatsprettyinteresting.com/post/i-know-what-tugs-at-your-soul'},
+{slug:'science-and-religion-post-1',title:'Science and Religion – Post 1',date:'2021-12-15',topic:'SCIENCE & PHILOSOPHY',excerpt:'I don’t know what the answer is.',original:'https://www.thatsprettyinteresting.com/post/science-and-religion-post-1'},
+{slug:'god-s-debris',title:'God’s Debris',date:'2021-12-14',topic:'BOOKS & PHILOSOPHY',excerpt:'A provocative thought experiment about knowledge, existence, and what it might mean to be God.',original:'https://www.thatsprettyinteresting.com/post/god-s-debris'}
+];
